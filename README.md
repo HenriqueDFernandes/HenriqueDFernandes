@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @HenriqueDFernandes
+- 📚 I study Control and Automation Engineering
+- 👀 I’m interested in Robotics, Computer Vision and Smart Systems 
+- 🌱 I’m currently learning Python, RaspberryPI and Computer Vision
+- 🤵 I'm currently looking for a Internship
+- 📫 How to reach me: fernandesdhenrique@gmail.com
